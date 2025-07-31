@@ -5,7 +5,7 @@ I do stuff with data. Sometimes its on purpose, sometimes it works out. I practi
 ### Experience:
 - Python: wrangling with my code to make it behave... occasionally. Errors are responsible for 50% of my google searches.
 - SQL: ask databases NICELY to give me what i want, only get it some of the time.
-- Data Visualization: Making it look like the data is understandable, don't tell anyone that I'm 
+- Data Visualization: Making it look like the data is understandable
 - Machine Learning: Like making brownies, a little bit of code, a lot of confidence, and a dash of prayer
 - Excel: Practicing my wizardry in spreadsheets. Once went to BPA (Business Proffesionals of America) Nationals in California, with 1st place in Florida. 
 - APIs: Requesting data from servers and showing the json data whos boss
