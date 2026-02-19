@@ -13,7 +13,8 @@ I spend most of my time in Python and SQL, cleaning up messy data. I like struct
 - GitHub
 
 ### Currently Working on:
-Alzheimer's Disease Risk Modeling (ADNI dataset)
+**Alzheimer's Disease Risk Modeling (ADNI dataset)**
+
 Working with ~4,600 patient records and 200+ clinical features to build and validate predictive models. Recently completed a data quality report that looked at missingness analysis, leakage prevention, class imbalance handling, and feature engineering.
 
 ### Currently Learning more about:
